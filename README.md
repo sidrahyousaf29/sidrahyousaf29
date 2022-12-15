@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sidrah
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python, PhP and SQL
+- 🌱 I’m currently learning Python, PHP and SQL
 - 💞️ I’m looking to collaborate on small to intermediate projects
 - 📫 How to reach me @sidrahyousaf29
 
